@@ -8,7 +8,7 @@ license:
   year: 2022
 resources:
   # foo: https://example.com
-# fusion_link: https://autodesk.example.com #comment out if no fusion link
+fusion_link: https://a360.co/3ymzbhn
 links:
   # Thingiverse: https://www.thingiverse.com/thing:xxxx
   # Printables: https://foo.com

@@ -4,6 +4,12 @@ Base for the LT1-Mini flashlight
 
 
 
+## :globe_with_meridians: Links
+
+
+**Autodesk Fusion 360 file**: [https://a360.co/3ymzbhn](https://a360.co/3ymzbhn)
+
+
 ## :triangular_ruler: CAD files
 
 3d files are located in the [CAD](./CAD) directory.
@@ -13,7 +19,7 @@ Base for the LT1-Mini flashlight
 | Filename | STL | GIF | 
 | --- | --- | --- | 
 | [CAD/Base-v10.stl](./CAD%2FBase-v10.stl) | ![](./CAD%2FBase-v10.png) | ![](./CAD%2FBase-v10.gif) | 
-| [CAD/Handle-v10.stl](./CAD%2FHandle-v10.stl) | ![](./CAD%2FHandle-v10.png) | ![](./CAD%2FHandle-v10.gif) | 
+| [CAD/Stand-v13.stl](./CAD%2FStand-v13.stl) | ![](./CAD%2FStand-v13.png) | ![](./CAD%2FStand-v13.gif) | 
 
 
 ## :camera: Photos
